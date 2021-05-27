@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Faisal. I am a Front-end Developer and Accessibility Professional. I have experience in designing, developing, and testing web applications. I have BSc in Information Technology & Computing with practical knowledge in web accessibility to develop and implement responsive, modern, and accessible visual designs.
+
 <!--
 **faisalsnour/faisalsnour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
