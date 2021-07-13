@@ -2,8 +2,8 @@
 
 My name is Faisal. I am a Front-end Developer and Accessibility Professional. I have experience in designing, developing, and testing web applications. I have BSc in Information Technology & Computing with practical knowledge in Web Accessibility to develop and implement responsive, modern, and accessible visual designs. In September 2021, I will begin Master of Art in Information Systems & Technology at York University.
 
-- 🔭 I’m currently working on re-building my personal website
-- 🌱 I’m currently learning Redux and react stripe.js
+- 🔭 I’m currently working on re-building business website for a non-profit organization
+- 🌱 I’m currently learning react stripe.js
 - 📫 You can reach me by email: faisalskhalifa@gmail.com or on LinkedIn https://www.linkedin.com/in/faisal-nour/
 - 😎 Besides coding, I have an interest in Immigration matters
 
