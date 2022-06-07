@@ -5,7 +5,7 @@ My name is Faisal. I am a Front-end Developer and Accessibility Professional. I 
 - 🔭 I’m currently working on re-building business website for a non-profit organization
 - 🌱 I’m currently learning react stripe.js
 - 📫 You can reach me by email: faisalskhalifa@gmail.com or on LinkedIn https://www.linkedin.com/in/faisal-nour/
-- 😎 Besides coding, I have an interest in Immigration matters
+- 😎 Besides coding, I have an interest in Canada Immigration matters
 
 I have knowledge working with:
 
